@@ -8,10 +8,11 @@
 <h2><picture><img src = "https://github.com/MICHELLCGs/MICHELLCGs/blob/main/kiki%C2%B4s.gif?raw=true" width = 50px></picture><b> About Me</b></h2>
 
 <ul>
-  <li><b>✨ JavaScript:</b> Building dynamic and interactive user experiences.</li>
-  <li><b>🎨 React, Angular, Vue.js:</b> Developing scalable and responsive front-end architectures.</li>
+  <li style="margin-bottom: 10px;"><b>✨ JavaScript:</b> Building dynamic and interactive user experiences.</li>
+  <li style="margin-bottom: 10px;"><b>🎨 React, Angular, Vue.js:</b> Developing scalable and responsive front-end architectures.</li>
   <li><b>🌸 HTML5 & CSS3:</b> Creating visually appealing designs with a focus on usability and accessibility.</li>
 </ul>
 
 I thrive on learning new technologies and trends in web development to continuously improve my craft. My goal is to deliver efficient, clean, and aesthetically pleasing solutions for the web. ✨
 </p>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
