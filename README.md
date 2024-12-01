@@ -15,4 +15,5 @@
 
 I thrive on learning new technologies and trends in web development to continuously improve my craft. My goal is to deliver efficient, clean, and aesthetically pleasing solutions for the web. ✨
 </p>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
