@@ -40,7 +40,7 @@ I thrive on learning new technologies and trends in web development to continuou
 - **Design Tools**:
 
     ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
 
 <br>
 
