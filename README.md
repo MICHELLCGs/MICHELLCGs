@@ -21,9 +21,10 @@ I thrive on learning new technologies and trends in web development to continuou
 <br>
 
 <p align="center">
+  
 - **Languages**:
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+     ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 <br>   
 
 - **Front-End Development**:
